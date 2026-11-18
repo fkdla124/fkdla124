@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🚀 미니 프로젝트
+### 1코스
+* [절차지향 콘솔 슈팅게임](https://github.com/fkdla124/MiniGame)
+* [객체지향 콘솔 슈팅게임](https://github.com/fkdla124/MiniGame2)
 
-<!--
-**fkdla124/fkdla124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2코스
+* [OnlineStar](https://github.com/fkdla124/OnlineStar)
+* [OnlinePaint](https://github.com/fkdla124/OnlinePaint)
+* [2DFighterServer](https://github.com/fkdla124/FighterServer)
 
-Here are some ideas to get you started:
+# 🗂️ 프로젝트에 사용할 자료구조 제작
+* [링버퍼](https://github.com/fkdla124/RingBuffer)
+* [이중 연결리스트](https://github.com/fkdla124/LinkedList)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📝 소켓 에러코드 로깅
+* [소켓 에러코드 로깅](https://github.com/fkdla124/Socket_ErrorCode_Logging)
+
+# 📚 공부기록
+* [Study](https://github.com/fkdla124/study)
