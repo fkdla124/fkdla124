@@ -14,6 +14,3 @@
 
 # 📝 소켓 에러코드 로깅
 * [소켓 에러코드 로깅](https://github.com/fkdla124/Socket_ErrorCode_Logging)
-
-# 📚 공부기록
-* [Study](https://github.com/fkdla124/study)
