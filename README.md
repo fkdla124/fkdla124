@@ -1,6 +1,6 @@
 # 📚 DEVELOPMENT ARCHIVE
 
-> 학원 교육 과정에서 직접 구현하고 경험한 프로젝트 모음
+> 학원 교육 과정에서 직접 구현한 프로젝트 모음
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🧩 02. DATA STRUCTURES
 
-**프로젝트에 활용하기 위한 자료구조 직접 구현**
+**프로젝트에 활용하기 위한 자료구조 구현**
 
 - 🔄 [Ring Buffer](https://github.com/fkdla124/RingBuffer) — 링버퍼
 - 📦 [Serialization Buffer](https://github.com/fkdla124/MsgBuf) — 직렬화 버퍼
