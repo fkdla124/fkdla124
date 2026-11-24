@@ -20,7 +20,7 @@
 
 | 프로젝트 | Repository |
 |:--|:--|
-| ⭐ OnlineStar | [OnlineStar](https://github.com/fkdla124/OnlineStar) |
+| ⭐ OnlineStar 　　　　　　　　　| [OnlineStar](https://github.com/fkdla124/OnlineStar) |
 | 🎨 OnlinePaint | [OnlinePaint](https://github.com/fkdla124/OnlinePaint) |
 | ⚔️ 2DFighterServer | [FighterServer](https://github.com/fkdla124/FighterServer) |
 
