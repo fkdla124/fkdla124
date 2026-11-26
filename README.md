@@ -34,6 +34,7 @@
 - 🔄 [Ring Buffer](https://github.com/fkdla124/RingBuffer) — 링버퍼
 - 📦 [Serialization Buffer](https://github.com/fkdla124/MsgBuf) — 직렬화 버퍼
 - 🔗 [Linked List](https://github.com/fkdla124/LinkedList) — 연결 리스트
+- [ObjectFreeList](https://github.com/fkdla124/ObjectFreeList/tree/master) - 메모리풀(프리리스트)
 
 ---
 
